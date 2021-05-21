@@ -1,0 +1,18 @@
+.container {
+    margin-top: 50px;
+  }
+  .skip {
+    background-color: darkgoldenrod;
+    margin-top:20px;
+  }
+  .generate {
+    background-color: #0275d8;
+  }
+
+  .newmeme{
+      background-color:brown;
+  }
+  .copy{
+      background-color:lime; 
+      margin-top:20px;
+  }
